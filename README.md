@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Data Science and Machine Learning!
+- 👯 I’m looking to collaborate on anything~
+- 🍓 Fun fact: Did you know that bananas are berries while strawberries are not?
 
+Cool Badges :
+[![An image of @jejv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jejv)](https://holopin.io/@jejv)
 <!--
 **jej-v/jej-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
