@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... stuff!
 - 🌱 I’m currently learning Data Science and Machine Learning!
 - 👯 I’m looking to collaborate on anything~
 - 🍓 Fun fact: Did you know that bananas are berries while strawberries are not?
